@@ -1,4 +1,4 @@
-package leetcode
+package leetcode.array
 
 fun groupAnagrams(strs: Array<String>): List<List<String>> {
     val result = hashMapOf<String, MutableList<String>>()

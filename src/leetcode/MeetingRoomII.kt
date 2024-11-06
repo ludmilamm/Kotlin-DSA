@@ -1,4 +1,5 @@
 package leetcode
 
-class MeetingRoomII {
+fun minMeetingRooms(interval: List<List<Int>>) {
+
 }

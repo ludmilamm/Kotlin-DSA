@@ -1,4 +1,4 @@
-package leetcode
+package leetcode.greedy
 
 fun canJump(nums: IntArray): Boolean {
     var goal = nums.size - 1
