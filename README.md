@@ -49,7 +49,7 @@ Solutions to various LeetCode problems, organized by category:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Kotlin-DSA.git
+   git clone https://github.com/ludmilamm/Kotlin-DSA.git
    ```
 
 2. Open the project in your preferred IDE (IntelliJ IDEA recommended for Kotlin projects)
@@ -92,10 +92,6 @@ Contributions are welcome! If you'd like to add new data structures, algorithms,
 3. Implement your changes
 4. Add appropriate tests and documentation
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
