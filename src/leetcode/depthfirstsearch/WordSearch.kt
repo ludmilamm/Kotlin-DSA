@@ -1,5 +1,6 @@
 package leetcode.depthfirstsearch
 
+@OptIn(ExperimentalStdlibApi::class)
 fun exist(board: Array<CharArray>, word: String): Boolean {
     if (board.isEmpty() || word.isEmpty()) return false
     val rows = board.size

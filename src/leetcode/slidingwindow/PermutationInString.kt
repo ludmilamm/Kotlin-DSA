@@ -2,6 +2,7 @@ package leetcode.slidingwindow
 
 import kotlin.system.measureTimeMillis
 
+@OptIn(ExperimentalStdlibApi::class)
 fun checkInclusion(s1: String, s2: String): Boolean {
     if (s1.length > s2.length) return false
 

@@ -2,6 +2,7 @@ package leetcode.depthfirstsearch
 
 import kotlin.math.max
 
+@OptIn(ExperimentalStdlibApi::class)
 fun maxAreaOfIsland(grid: Array<IntArray>): Int {
     if (grid.isEmpty()) return 0
     val rows = grid.size

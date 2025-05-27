@@ -1,5 +1,6 @@
 package leetcode.dynamicprogramming
 
+@OptIn(ExperimentalStdlibApi::class)
 fun climbStairs(n: Int): Int {
     var step1 = 1
     var step2 = 1

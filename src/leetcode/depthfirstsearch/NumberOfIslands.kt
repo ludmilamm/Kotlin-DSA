@@ -1,5 +1,6 @@
 package leetcode.depthfirstsearch
 
+@OptIn(ExperimentalStdlibApi::class)
 fun numIslands(grid: Array<CharArray>): Int {
     val rows = grid.size
     val columns = grid[0].size

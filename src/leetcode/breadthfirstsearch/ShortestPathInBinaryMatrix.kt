@@ -1,5 +1,6 @@
 package leetcode.breadthfirstsearch
 
+@OptIn(ExperimentalStdlibApi::class)
 fun shortestPathBinaryMatrix(grid: Array<IntArray>): Int {
     if (grid.isEmpty()) return -1
 
